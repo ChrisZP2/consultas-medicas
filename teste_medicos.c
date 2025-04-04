@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(){
   int Medicos;
   printf("Escolha o médico responsável de acordo com o número:\n1. Paulo Roberto     /  Nutrólogo.\n2. José Moura        /  Cirurgião Geral.\n3. Rodrigo Coentrão  /  Urologista.\n4. Paula Pereira     /  Ginecologista.\n5. Fernanda Silva    /  Pediatra.\n6. Flavia Nunes      /  Ortopedista.\n7. Fabricio Mendes   /  Proctologista.\n8. Bruna Fernandes   /  Neurologista.\n9. Bruno Silva       /  Oftalmologista.\n10. Alex Jonas       /  Médico Clínico.\n");
